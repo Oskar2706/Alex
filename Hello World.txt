@@ -1,1 +1,2 @@
-add fail, fail new
+add fail
+new fail
